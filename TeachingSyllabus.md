@@ -5,8 +5,8 @@ Here is the syllabus that I am following in my Twitch Streaming Sessions.
 1. [Basic JavaScript from FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) - learn the basics of JavaScript.
 1. [Basic Web App with Vanilla JavaScript and Bootstrap](https://github.com/Jay-study-nildana/FrontEndForStudents/tree/main/BootstrapForStudents/Bootstrap5/NASAAPODXhrFetch) - a simple web app/web site that consumes the NASA APOD web API using XHR and Fetch. Only using JavaScript and Bootstrap.
 1. [P5 JS Workshop](https://github.com/Jay-study-nildana/P5JSWorkshop) - some simply 'generative Art' using P5.JS. Helps you seriously apply your JavaScript knowledge whilst also having a little colors and fun.
-1. [React JS with Axios]() - consume the NASA APOD WEB API using React JS and Axios.
-1. [React JS with Fetch and Redux]() - consume the NASA APOD WEB API using React JS and Fetch and Redux.
+1. [React JS with Axios](https://github.com/Jay-study-nildana/FrontEndForStudents/tree/main/ReactJSForStudents/axioshelloworldhttps) - consume the NASA APOD WEB API using React JS and Axios.
+1. [React JS with Fetch and Redux](https://github.com/Jay-study-nildana/FrontEndForStudents/tree/main/ReactJSForStudents/StarterNASAAPODReactJS) - consume the NASA APOD WEB API using React JS and Fetch and Redux.
 
 [Last Updated: October 7th 2022]
 
