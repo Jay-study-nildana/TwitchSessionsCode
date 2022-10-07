@@ -1,19 +1,8 @@
-# Twitch Sessions Code
+# Twitch Sessions Code : Run One.
 
 this is a public repository where i plan to share code created during twitch session. 
 
 twictch channel : https://www.twitch.tv/jaylive510
-
-See the [syllabus here](TeachingSyllabus.md)
-
-# Session Runs 
-
-The twitch sessions happen in Runs. 
-
-Each Run, restarts the classes back to the beginning and ends with the final chapter as per the syllabus.
-
-1. [RunOne] - trial run. contains just two sessions worth of code. 
-1. [RunTwo] - another trial run. let's see how long this goes before its abandoned. 
 
 # Hire Me
 
